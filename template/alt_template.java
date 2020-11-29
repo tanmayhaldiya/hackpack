@@ -84,7 +84,7 @@ java template
         FastIO in = new FastIO(System.in);
         PrintWriter pw = new PrintWriter(System.out);
 
-
+ 
         pw.close();
     }
 }
